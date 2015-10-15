@@ -1,0 +1,36 @@
+div {
+    background-color: dodgerblue;
+    width:33%;
+    height: 800px;
+    float: left;
+    margin:0px;
+}
+
+h1 {
+    float: left;
+    background-color:teal;
+    width: 33%;
+    height: 800px;
+    margin: 0px;
+}
+
+h2 {
+    float: left;
+    background-color:yellow;
+    width: 33%;
+    height: 670px;
+    margin: 0px;
+}
+    
+p {
+    background-color: darkred;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    width:33%;
+    height:70px;
+    float: left;
+    margin: 0px;
+    text-align: center;
+    padding-top: 60px;
+}
